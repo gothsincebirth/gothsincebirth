@@ -1,5 +1,5 @@
 <h1 align="center">KATCH</h1>
-<p align="center"><img align="center" src="[https://i.pinimg.com/564x/77/dc/17/77dc1724144471df9ff26bd05756819b.jpg](https://i.pinimg.com/564x/77/dc/17/77dc1724144471df9ff26bd05756819b.jpg)"></p>
+<p align="center"><img align="center" src="https://i.pinimg.com/564x/fe/04/a0/fe04a0265c4deab343ea8cd8ee6d32be.jpg"></p>
 <h3 align="center">Paranoid Schizophrenic</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
