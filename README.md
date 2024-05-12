@@ -2,13 +2,11 @@
 <h3 align="center">Paranoid Schizophrenic</h3>
 
 - I’m currently working on [hamood-bot](https://github.com/ka-chng/hamood-bot)
-<a align="center">
+  
 - Ask me about **the voices in my head**
-
 - How to reach me **villain@duck.com**
-
 - Fun fact **i cant take it anymore**
-</a>
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.leetcode.com/ka-chng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ka-chng" height="30" width="40" /></a>
