@@ -1,7 +1,6 @@
 <h1 align="center">KATCH</h1>
 <p align="center"><img align="center" src="https://i.pinimg.com/564x/fe/04/a0/fe04a0265c4deab343ea8cd8ee6d32be.jpg"></p>
-<h3 align="center">Paranoid Schizophrenic</h3>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.leetcode.com/ka-chng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ka-chng" height="30" width="40" /></a>
 </p>
