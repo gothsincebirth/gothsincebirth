@@ -1,11 +1,11 @@
 <h1 align="center">KATCH</h1>
 <h3 align="center">Paranoid Schizophrenic</h3>
 
-- I’m currently working on [hamood-bot](https://github.com/ka-chng/hamood-bot)
+<p align="center">- I’m currently working on [hamood-bot](https://github.com/ka-chng/hamood-bot)</p>
   
-<p align="center">- Ask me about **the voices in my head**
-- How to reach me **villain@duck.com**
-- Fun fact **i cant take it anymore**</p>
+<p align="center">- Ask me about: **the voices in my head**</p>
+<p align="center">- How to reach me: **villain@duck.com**</p>
+<p align="center">- Fun fact: **i cant take it anymore**</p>
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
