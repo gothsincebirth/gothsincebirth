@@ -3,9 +3,9 @@
 
 - I’m currently working on [hamood-bot](https://github.com/ka-chng/hamood-bot)
   
-- Ask me about **the voices in my head**
+<p align="center">- Ask me about **the voices in my head**
 - How to reach me **villain@duck.com**
-- Fun fact **i cant take it anymore**
+- Fun fact **i cant take it anymore**</p>
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
